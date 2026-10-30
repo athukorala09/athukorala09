@@ -1,4 +1,4 @@
-# Hi, I'm A.A.A.U. Athukorala 👋
+# Hi, I'm A.A.A.U. Athukorala 
 
 **QA Engineer & Frontend Developer**
 
